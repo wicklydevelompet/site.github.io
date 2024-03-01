@@ -1,0 +1,52 @@
+.btn{
+    float: left;
+    margin: 150px 0 0 0
+}
+.bg-overlay {
+    background: #222;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 1650px;
+  }
+.navbar{
+    opacity: 1;
+    background: rgba(35, 35, 35)
+
+}
+
+.s1,.s2,.s3,.s4,.s5,.s6,.s7,.s8,.s9,.s10,.s11,.s12{
+    transition: all 0.5s;
+
+    float: left;
+ margin: 25px 0 0 50px;
+    width: 100px;
+    height: 100px;
+    background: #333;
+}
+.s1:hover,.s2:hover,.s3:hover,.s4:hover,.s5:hover,.s6:hover,.s7:hover,.s8:hover,.s9:hover,.s10:hover,.s11:hover,.s12:hover{
+    background: #444;
+}
+.footer{
+    text-decoration: underline #222 ;
+
+    padding: 25px;
+    float: left;
+    color: #fff;
+    background-color: #222;
+    width: 100%;
+    height: 235px;
+    border-radius: 0px 0px 25px 25px;
+}
+.footer p a:hover{
+color: #000;
+}
+
+.urun1:hover,.urun2:hover,.urun3:hover,.urun4:hover{
+    transition: all 0.5s;
+    background: #444 ;
+
+}
