@@ -1,3 +1,6 @@
+body{
+    background: #222;
+}
 .btn{
     float: left;
     margin: 150px 0 0 0
@@ -13,9 +16,16 @@
     height: 1650px;
   }
 .navbar{
+    list-style-type: none;;
+    color: #888;
     opacity: 1;
     background: rgba(35, 35, 35)
 
+}
+.navbar li a:hover{
+    border-radius: 8px;
+border: 1px solid #333;
+    color: #fff;
 }
 
 .s1,.s2,.s3,.s4,.s5,.s6,.s7,.s8,.s9,.s10,.s11,.s12{
@@ -31,8 +41,8 @@
     background: #444;
 }
 .footer{
+    border-top: 1px solid #333;
     text-decoration: underline #222 ;
-
     padding: 25px;
     float: left;
     color: #fff;
@@ -49,4 +59,12 @@ color: #000;
     transition: all 0.5s;
     background: #444 ;
 
+}
+.musteri{
+    justify-content: space-between;
+    flex-direction: column;
+    border: 1px solid #333;
+    float: left;
+    width: auto;
+    height: 150px;
 }
