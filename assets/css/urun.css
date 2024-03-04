@@ -22,11 +22,7 @@ body{
     background: rgba(35, 35, 35)
 
 }
-.navbar li a:hover{
-    border-radius: 8px;
-border: 1px solid #333;
-    color: #fff;
-}
+
 
 .s1,.s2,.s3,.s4,.s5,.s6,.s7,.s8,.s9,.s10,.s11,.s12{
     transition: all 0.5s;
