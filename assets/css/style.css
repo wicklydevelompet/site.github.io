@@ -576,8 +576,8 @@ button:focus {
   float: left;
 }
 .urun3{
-  margin: 75px 0 0 150px;
-  height: 300px;
+  margin: 75px 0 0 120px;
+  height: 250px;
   width: 300px;
   float: left;
 }
@@ -592,11 +592,22 @@ button:focus {
   padding: 300px 0 0 75px;
 }
 .yazi2,.yazi,.yazi3{
+  border-bottom: 1px solid #333;
   padding: 0 0 0 150px;
-color:  #fff; margin: 150px 0 0 0; border-bottom: 1px solid #333;}
+color:  #fff; margin: 150px 0 0 0;}
 .yazi3{
   padding: 400px 0 0 0;
 }
 .yazi4{
   padding: 100px 0 0 0;
+}
+
+.navbar{
+  list-style-type: none;;
+  color: #888;
+  opacity: 1;
+
+}
+.navbar li a:hover{
+    color: #fff;
 }
