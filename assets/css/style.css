@@ -563,14 +563,14 @@ button:focus {
 }
 .urun1{
   background: rgb(34, 34, 34, 0.5);
-  margin: 75px 0 0 120px;
+  margin: 75px 0 5px 120px;
   height: 300px;
   width: 300px;
   float: left;
 }
 .urun2{
   background: rgb(34, 34, 34, 0.5);
-  margin: 75px 0 0 150px;
+  margin: 75px 0 5px 150px;
   height: 300px;
   width: 300px;
   float: left;
