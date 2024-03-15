@@ -563,32 +563,33 @@ button:focus {
 }
 .urun1{
   background: rgb(34, 34, 34, 0.5);
-  margin: 75px 0 5px 120px;
+  margin: 150px 0 0px 120px;
   height: 300px;
   width: 300px;
   float: left;
 }
 .urun2{
   background: rgb(34, 34, 34, 0.5);
-  margin: 75px 0 5px 150px;
+  margin: 150px 0 0px 150px;
   height: 300px;
   width: 300px;
   float: left;
 }
 .urun3{
-  margin: 75px 0 0 120px;
+  margin: 150px 0 0 120px;
   height: 250px;
   width: 300px;
   float: left;
 }
 .urun4{
-  margin: 75px 0 150px 150px;
+  margin: 150px 0 0 150px;
   height: 300px;
   width: 300px;
   float: left;
 }
 .urun1 ,.urun2,.urun3,.urun4{
   background: #333;
+
   padding: 300px 0 0 75px;
 }
 .yazi2,.yazi,.yazi3{
@@ -613,4 +614,36 @@ color:  #fff; margin: 150px 0 0 0;}
 }
 .element{
   color:green
+}
+.resim{
+  width: 470px;
+  height: 470px;
+  float: left;
+margin: 0 0 0 50px;
+  
+}
+.bilgilendirme{
+width: 470px;
+  float: left;
+ margin: -470px 0 0 480px;
+}
+.resim img {
+  width: 350px;
+  height: 470px;
+}
+pre{
+  font-size: 15px;
+}
+.resim img{float: left;
+  margin: 0 0 0 -150px;
+
+}
+
+.urun5,.urun6,.urun7,.urun8,.urun9,.urun10,.urun11,.urun12,.urun13,.urun14,.urun15,.urun16,.urun17,.urun18,.urun19,.urun20{
+  background: #333;
+  margin: 150px 0 0px 120px;
+  padding: 300px 0 0 75px;
+  height: 250px;
+  width: 300px;
+  float: left;
 }
