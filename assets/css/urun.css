@@ -57,10 +57,11 @@ color: #000;
 
 }
 .musteri{
+    margin: 100px 0 0 0;
     justify-content: space-between;
     flex-direction: column;
     border: 1px solid #333;
     float: left;
-    width: auto;
+    width: 100%;
     height: 150px;
 }
